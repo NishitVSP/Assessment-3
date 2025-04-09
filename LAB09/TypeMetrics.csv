@@ -1,0 +1,52 @@
+Project Name,Package Name,Type Name,LCOM1,LCOM2,LCOM3,LCOM4,LCOM5,YALCOM
+Java-Programs,(default package),Calender,0,0,1,1,0,0
+Java-Programs,(default package),Main,0,0,1,1,0,0
+Java-Programs,(default package),UserDefinedException,2,1,2,2,0.5,0.666666667
+Java-Programs,(default package),throwexample,0,0,1,1,0,0
+Java-Programs,(default package),Register,0,0,1,1,0.666666667,0
+Java-Programs,(default package),Count,0,0,1,1,0.333333333,0
+Java-Programs,(default package),MultiThread,0,0,1,1,0,0
+Java-Programs,(default package),StudentInfo,0,0,1,1,0,0
+Java-Programs,(default package),MyInfo,0,0,1,1,0,0
+Java-Programs,(default package),Traverse_File_19BCE2250,0,0,1,1,0,0
+Java-Programs,(default package),OddEvenTest,1,0,2,2,0,1
+Java-Programs,(default package),testarray,1,0,2,2,0,1
+Java-Programs,(default package),strong,0,0,1,1,0,0
+Java-Programs,(default package),Main,0,0,1,1,0,0
+Java-Programs,(default package),Main,0,0,1,1,0,0
+Java-Programs,(default package),Stringadd,1,0,2,2,0,1
+Java-Programs,(default package),magic_number,0,0,1,1,0,0
+Java-Programs,(default package),missing_alphabets,0,0,1,1,0,0
+Java-Programs,(default package),largest_digit_in_number,0,0,1,1,0,0
+Java-Programs,(default package),smallest_largest_digit,0,0,1,1,0,0
+Java-Programs,(default package),sort_hashmap,0,0,1,1,0,0
+Java-Programs,(default package),Findduplicate,0,0,1,1,0,0
+Java-Programs,(default package),weird_num,1,0,2,2,0,1
+Java-Programs,(default package),third_cons,1,0,2,2,0,1
+Java-Programs,(default package),DnaStrand,0,0,1,1,0,0
+Java-Programs,(default package),vowelgram,1,0,2,2,0,1
+Java-Programs,(default package),NumberFun,0,0,1,1,0,0
+Java-Programs,(default package),Kata,0,0,1,1,0,0
+Java-Programs,(default package),Basic_codes,0,0,1,1,0,0
+Java-Programs,(default package),Regestration,0,0,1,1,0,0
+Java-Programs,(default package),Student,4,0,1,1,0.583333333,0
+Java-Programs,(default package),Courses,6,0,1,1,0.6,0
+Java-Programs,(default package),participants,0,0,1,1,0,0
+Java-Programs,(default package),selection,0,0,1,1,0,0
+Java-Programs,pack1,stackvessel,0,0,1,1,0,0
+Java-Programs,pack1,MOM,2,1,2,1,0.5,0
+Java-Programs,pack1,Child,2,1,2,1,0.5,0
+Java-Programs,pack1,Main,0,0,1,1,0,0
+Java-Programs,Reg,student,0,0,2,2,0,0
+Java-Programs,Reg,room,0,0,1,1,0.666666667,0
+Java-Programs,Reg,warden,0,0,1,1,0,0
+Java-Programs,Reg,Hostel,0,0,1,1,0.666666667,0
+Java-Programs,Reg,registration,0,0,1,1,0,0
+Java-Programs,package2,Class1_19BCE2250,0,0,1,1,0,0
+Java-Programs,package2,Travel,0,0,1,1,0,0
+Java-Programs,package2,International,3,0,3,3,0,1
+Java-Programs,package2,National,3,0,3,3,0,1
+Java-Programs,package2,Class2_19BCE2250,1,0,2,1,0,0
+Java-Programs,pack2,person,0,0,1,1,0,0
+Java-Programs,pack2,student,0,0,1,1,0,0
+Java-Programs,pack2,Final,0,0,1,1,0,0
